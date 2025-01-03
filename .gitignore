@@ -1,0 +1,7 @@
+.env
+system/
+writable/session/
+writable/logs/
+writable/debugbar/
+writable/cache/
+tests/
